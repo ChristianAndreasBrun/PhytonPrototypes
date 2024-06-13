@@ -1,0 +1,3 @@
+Christian,Brun,admin,pass,admin
+Pedro,Garcia,mark,1234,cliente
+Miriam,Alonso,Magika,zxcv,cliente

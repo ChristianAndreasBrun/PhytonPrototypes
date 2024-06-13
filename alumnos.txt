@@ -1,0 +1,6 @@
+Andreas,Brun,10 
+Pedro,Garcia,9
+Carlos,Sainz,7
+Juan,Salazar,4 
+Christian,Brunn,6 
+asf,asf,9 

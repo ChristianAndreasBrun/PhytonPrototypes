@@ -1,0 +1,24 @@
+- Usuario Administrados: Puede crear productos, modificar productos,
+eliminiar los usuarios, y sacar la facturacion total de los productos
+
+- Usuario Cliente: Puede ver los productos, comprar productos y modificar sus datos
+
+----------------------------------------------------------
+- Clase usuario - atributos privados
+	> la información se almacena en esta clase
+	> Se encuentra Administrador y CLiente
+
+- Clase producto - atributos privados
+
+----------------------------------------------------------
+Archivos txt generados (minimo 3) que contengan
+- Usuarios.txt = Nombre, Apellidos, Usuario y Password
+- Productos.txt = ID, Nombre y Precio
+- Facturas.txt = Usuario, Producto y Precio
+
+
+
+
+
+----------------------------------------------------------
+Desde productos se lee el .txt que se ha creado al añadir los productos como administrador

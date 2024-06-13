@@ -1,0 +1,7 @@
+1,silla,40
+2,mesa,60
+3,secador,360
+4,cama,280
+5,balon,20 
+6,prismaticos,190
+7,cascos,240

@@ -1,0 +1,6 @@
+Magika,4,280 
+Magika,5,20 
+Magika,1,40 
+mark,6,190 
+mark,6,190 
+mark,3,360 
